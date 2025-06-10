@@ -1,3 +1,5 @@
+/media/*
+  Cache-Control: public, max-age=2592000, must-revalidate
 /media/desktop/videos/hero/*
   Cache-Control: public, max-age=2592000, must-revalidate
 /media/mobile/videos/hero/*
